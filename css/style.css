@@ -329,11 +329,11 @@ button:focus {
   z-index: 1;
   min-height: 900px;
   position: relative;
-  background: url(../img/banner/home-banner.jpg) no-repeat center;
-  background-size: cover; }
+  background: url(../img/vectorhome.jpg) no-repeat center;
+  background-size: 400px; }
   .home_banner_area .banner_inner {
     position: absolute;
-    top: 40%;
+    top: 28%;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
