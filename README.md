@@ -1,5 +1,7 @@
 # Connect
 Connect website
 
+A website built for RELEvent 2020 conducted by IEDC MBCET
 
-https://chandran-jr.github.io/Connect/
+
+<a href="https://chandran-jr.github.io/Connect/" Connect website </a>
